@@ -5,6 +5,8 @@ class KlasaModifiers
   @pole2
   @pole3
 
+  @poleAddedInMaster
+
   def initialize param
     @nazwa=param
     @@liczebnosc +=1
