@@ -3,6 +3,7 @@ class KlasaModifiers
   @@liczebnosc=0
 
   @pole2
+  @pole3
 
   def initialize param
     @nazwa=param
