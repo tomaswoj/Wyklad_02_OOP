@@ -2,6 +2,8 @@ class KlasaModifiers
   @nazwa
   @@liczebnosc=0
 
+  @pole2
+
   def initialize param
     @nazwa=param
     @@liczebnosc +=1
